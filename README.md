@@ -1,1 +1,1 @@
-yo new ud macros for 1000% niggachain solana rugpullinh
+yo new ud macros for rust 1000% niggachain solana rugpulling
