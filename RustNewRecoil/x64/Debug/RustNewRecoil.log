@@ -1,0 +1,18 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Main.cpp
+  Создание кода...
+C:\Users\swisre\Desktop\RustNewRecoil\Main.cpp(235,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\swisre\Desktop\RustNewRecoil\Main.cpp(237,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\swisre\Desktop\RustNewRecoil\Main.cpp(239,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\swisre\Desktop\RustNewRecoil\Main.cpp(241,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\swisre\Desktop\RustNewRecoil\Main.cpp(243,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\swisre\Desktop\RustNewRecoil\Main.cpp(260,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\swisre\Desktop\RustNewRecoil\Main.cpp(281,116): error C3861: L: идентификатор не найден
+C:\Users\swisre\Desktop\RustNewRecoil\Main.cpp(283,16): error C3861: L: идентификатор не найден
+C:\Users\swisre\Desktop\RustNewRecoil\Main.cpp(322,57): warning C4305: аргумент: усечение из "double" в "float"
